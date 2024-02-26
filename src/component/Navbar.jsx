@@ -7,12 +7,11 @@ function Navbar() {
     <div className="flex flex-row shadow-sm px-[8%] py-3 justify-between items-center">
       <div className="flex flex-row space-x-4 items-center">
         <div className="h-6 w-6 rounded-full bg-primary"></div>
-        <h1>Harsh Pawar</h1>
+        <h1>Vishal Kumar</h1>
       </div>
       <div
-        className={`md:static md:min-h-fit mx-auto absolute  bg-white   left-0 w-full md:w-auto min-h-[30vh] ${
-          open ? "top-[9%]" : "top-[-100%]"
-        } flex items-center px-[9%]`}
+        className={`md:static md:min-h-fit mx-auto absolute  bg-white   left-0 w-full md:w-auto min-h-[30vh] ${open ? "top-[9%]" : "top-[-100%]"
+          } flex items-center px-[9%]`}
       >
         <ul className="flex md:flex-row flex-col md:items-center gap-8">
           <li>

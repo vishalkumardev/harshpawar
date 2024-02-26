@@ -9,7 +9,7 @@ function Hero() {
     >
       <div className="bg-gradient-to-t from-cyan-500 to-blue-500 lg:w-2/3 sm:w-full rounded-2xl p-10 flex flex-col justify-between ">
         <p className="text-white text-[36px]  bg-clip-text  font-bold  tracking-normal lg:w-4/5  sm:my-5">
-          Hey !, I’m Harsh, A Modern UI Designer With Few Years Of Experience.
+          Hey !, I’m Vishal, A Modern Web Developer With Few Years Of Experience.
         </p>
         <p className="text-white text-base   font-medium  lg:w-4/5 md:w-full sm:w-full my-5">
           Working with new skills can be a problem, but I always enjoy that
@@ -27,21 +27,21 @@ function Hero() {
           <div className="flex flex-row space-x-2 my-5 sm:my-0  ">
             <Link
               className="h-10 w-10 rounded-full bg-white justify-center items-center flex hover:scale-125 cursor-pointer"
-              to="mailto:pawarharsh119@gmail.com"
+              to="mailto:5060vishalkumar@gmail.com"
               target="_blank"
             >
               <ion-icon name="logo-google"></ion-icon>
             </Link>
             <Link
               className="h-10 w-10 rounded-full bg-white justify-center items-center flex hover:scale-125 cursor-pointer"
-              to="https://github.com/hyperdgx"
+              to="https://github.com/vishalkumardev"
               target="_blank"
             >
               <ion-icon name="logo-github"></ion-icon>
             </Link>
             <Link
               className="h-10 w-10 rounded-full bg-white justify-center items-center flex hover:scale-125 cursor-pointer"
-              to="https://www.linkedin.com/in/1harshpawar/"
+              to="https://www.linkedin.com/in/vishal-kumar-132272228/"
               target="_blank"
             >
               <ion-icon name="logo-linkedin"></ion-icon>
